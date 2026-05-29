@@ -2,13 +2,6 @@
 .venv/
 __pycache__/
 *.pyc
-.specialist_ids.json
-.ma_specialist_ids.json
-.coordinator_id
-.ma_coordinator_id
-.environment_id
-.skill_ids.json
-.ma_skill_ids.json
 .last_session_id
 .ma_last_session_id
 outputs/
